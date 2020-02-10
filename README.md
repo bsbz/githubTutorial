@@ -1,2 +1,7 @@
 # githubTutorial
-git tutorial repo
+
+This is going to be a repository.
+Udahgui oortoo taalagdsan ajildaa orno.
+Ger bulee  urina.
+
+
